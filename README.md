@@ -1,0 +1,1 @@
+# go-pseudo-version-v2-nogomod
